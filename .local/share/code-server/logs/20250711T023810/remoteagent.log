@@ -1,0 +1,24 @@
+2025-07-11 02:38:10.780 [info] 
+
+
+
+
+2025-07-11 02:38:10.793 [info] Extension host agent started.
+2025-07-11 02:38:14.183 [info] [172.16.0.1][cf2ec174][ManagementConnection] New connection established.
+2025-07-11 02:38:15.079 [warning] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: Address element “/dev/null” does not contain a colon (:)
+2025-07-11 02:38:15.531 [info] [172.16.0.1][ff8bcf64][ExtensionHostConnection] New connection established.
+2025-07-11 02:38:15.580 [info] [172.16.0.1][ff8bcf64][ExtensionHostConnection] <72> Launched Extension Host Process.
+2025-07-11 03:02:26.039 [info] [172.16.0.1][3d551a52][ManagementConnection] New connection established.
+2025-07-11 03:02:27.521 [info] [172.16.0.1][28bdbe55][ExtensionHostConnection] New connection established.
+2025-07-11 03:02:27.528 [info] [172.16.0.1][28bdbe55][ExtensionHostConnection] <2886> Launched Extension Host Process.
+2025-07-11 03:02:28.746 [warning] RequestStore#acceptReply was called without receiving a matching request 34
+2025-07-11 03:02:28.746 [warning] RequestStore#acceptReply was called without receiving a matching request 35
+2025-07-11 03:02:28.749 [warning] RequestStore#acceptReply was called without receiving a matching request 36
+2025-07-11 03:02:28.749 [warning] RequestStore#acceptReply was called without receiving a matching request 37
+2025-07-11 03:02:28.749 [warning] RequestStore#acceptReply was called without receiving a matching request 38
+2025-07-11 03:02:28.749 [warning] RequestStore#acceptReply was called without receiving a matching request 39
+2025-07-11 03:02:28.749 [warning] RequestStore#acceptReply was called without receiving a matching request 40
+2025-07-11 03:02:28.749 [warning] RequestStore#acceptReply was called without receiving a matching request 41
+2025-07-11 03:02:28.749 [warning] RequestStore#acceptReply was called without receiving a matching request 42
+2025-07-11 03:02:28.749 [warning] RequestStore#acceptReply was called without receiving a matching request 43
+2025-07-11 03:02:28.749 [warning] RequestStore#acceptReply was called without receiving a matching request 44

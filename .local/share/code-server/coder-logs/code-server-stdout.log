@@ -1,0 +1,152 @@
+[2025-07-01T01:43:26.200Z] info  code-server 4.16.1 94ef3776ad7bebfb5780dfc9632e04d20d5c9a6c
+[2025-07-01T01:43:26.202Z] info  Using user-data-dir ~/.local/share/code-server
+[2025-07-01T01:43:26.227Z] info  Using config file ~/.config/code-server/config.yaml
+[2025-07-01T01:43:26.228Z] info  HTTP server listening on http://0.0.0.0:8081/
+[2025-07-01T01:43:26.228Z] info    - Authentication is disabled
+[2025-07-01T01:43:26.228Z] info    - Not serving HTTPS
+[2025-07-01T01:43:26.228Z] info  Session server listening on /home/labsuser/.local/share/code-server/code-server-ipc.sock
+[01:43:26] 
+
+
+
+
+[01:43:26] Extension host agent started.
+[01:43:26] Started initializing default profile extensions in extensions installation folder. file:///home/labsuser/.local/share/code-server/extensions
+[01:43:27] Completed initializing default profile extensions in extensions installation folder. file:///home/labsuser/.local/share/code-server/extensions
+[01:43:28] [172.16.0.1][d7e80c2c][ManagementConnection] New connection established.
+[01:43:30] [172.16.0.1][451c936b][ExtensionHostConnection] New connection established.
+[01:43:30] [172.16.0.1][451c936b][ExtensionHostConnection] <86> Launched Extension Host Process.
+[02:25:08] [172.16.0.1][d7e80c2c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[02:25:08] [172.16.0.1][451c936b][ExtensionHostConnection] <86> Extension Host Process exited with code: 0, signal: null.
+[02:25:17] [172.16.0.1][fde22a60][ManagementConnection] New connection established.
+[IPC Library: Pty Host]  INFO Expanding terminal instance, old id 1 -> new id undefined
+[02:25:18] [172.16.0.1][5890da12][ExtensionHostConnection] New connection established.
+[02:25:18] [172.16.0.1][5890da12][ExtensionHostConnection] <4166> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "1"
+[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 500 chars and 1 size events
+[02:35:30] [172.16.0.1][fde22a60][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[02:35:30] [172.16.0.1][5890da12][ExtensionHostConnection] <4166> Extension Host Process exited with code: 0, signal: null.
+[02:35:34] [172.16.0.1][46add37d][ManagementConnection] New connection established.
+[IPC Library: Pty Host]  INFO Expanding terminal instance, old id 1 -> new id undefined
+[02:35:35] [172.16.0.1][06583ec9][ExtensionHostConnection] New connection established.
+[02:35:35] [172.16.0.1][06583ec9][ExtensionHostConnection] <5247> Launched Extension Host Process.
+[IPC Library: Pty Host]  WARN Persistent process "1": Process had no disconnect runners but was an orphan
+[IPC Library: Pty Host]  INFO Persistent process reconnection "1"
+[IPC Library: Pty Host]  INFO Persistent process "1": Replaying 543 chars and 1 size events
+[2025-07-01T22:21:27.770Z] info  code-server 4.16.1 94ef3776ad7bebfb5780dfc9632e04d20d5c9a6c
+[2025-07-01T22:21:27.770Z] info  Using user-data-dir ~/.local/share/code-server
+[2025-07-01T22:21:27.788Z] info  Using config file ~/.config/code-server/config.yaml
+[2025-07-01T22:21:27.788Z] info  HTTP server listening on http://0.0.0.0:8081/
+[2025-07-01T22:21:27.788Z] info    - Authentication is disabled
+[2025-07-01T22:21:27.788Z] info    - Not serving HTTPS
+[2025-07-01T22:21:27.788Z] info  Session server listening on /home/labsuser/.local/share/code-server/code-server-ipc.sock
+[22:21:28] 
+
+
+
+
+[22:21:28] Extension host agent started.
+[22:21:30] [172.16.0.1][e909f553][ManagementConnection] New connection established.
+[22:21:32] [172.16.0.1][69a34719][ExtensionHostConnection] New connection established.
+[22:21:32] [172.16.0.1][69a34719][ExtensionHostConnection] <74> Launched Extension Host Process.
+[00:27:17] [172.16.0.1][e909f553][ManagementConnection] The client has reconnected.
+[00:53:02] [172.16.0.1][69a34719][ExtensionHostConnection] The client has reconnected.
+[2025-07-10T22:31:59.702Z] info  code-server 4.16.1 94ef3776ad7bebfb5780dfc9632e04d20d5c9a6c
+[2025-07-10T22:31:59.703Z] info  Using user-data-dir ~/.local/share/code-server
+[2025-07-10T22:31:59.729Z] info  Using config file ~/.config/code-server/config.yaml
+[2025-07-10T22:31:59.729Z] info  HTTP server listening on http://0.0.0.0:8081/
+[2025-07-10T22:31:59.729Z] info    - Authentication is disabled
+[2025-07-10T22:31:59.729Z] info    - Not serving HTTPS
+[2025-07-10T22:31:59.729Z] info  Session server listening on /home/labsuser/.local/share/code-server/code-server-ipc.sock
+[22:32:00] 
+
+
+
+
+[22:32:00] Extension host agent started.
+[22:32:03] [172.16.0.1][54ee5de5][ManagementConnection] New connection established.
+[22:32:05] [172.16.0.1][523d3449][ExtensionHostConnection] New connection established.
+[22:32:05] [172.16.0.1][523d3449][ExtensionHostConnection] <85> Launched Extension Host Process.
+[22:37:10] [172.16.0.1][54ee5de5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[22:37:10] [172.16.0.1][523d3449][ExtensionHostConnection] <85> Extension Host Process exited with code: 0, signal: null.
+[2025-07-10T22:37:23.023Z] info  code-server 4.16.1 94ef3776ad7bebfb5780dfc9632e04d20d5c9a6c
+[2025-07-10T22:37:23.024Z] info  Using user-data-dir ~/.local/share/code-server
+[2025-07-10T22:37:23.041Z] info  Using config file ~/.config/code-server/config.yaml
+[2025-07-10T22:37:23.041Z] info  HTTP server listening on http://0.0.0.0:8081/
+[2025-07-10T22:37:23.041Z] info    - Authentication is disabled
+[2025-07-10T22:37:23.041Z] info    - Not serving HTTPS
+[2025-07-10T22:37:23.041Z] info  Session server listening on /home/labsuser/.local/share/code-server/code-server-ipc.sock
+[22:37:24] 
+
+
+
+
+[22:37:24] Extension host agent started.
+[22:37:27] [172.16.0.1][63b55b43][ManagementConnection] New connection established.
+[22:37:28] [172.16.0.1][76323871][ExtensionHostConnection] New connection established.
+[22:37:28] [172.16.0.1][76323871][ExtensionHostConnection] <86> Launched Extension Host Process.
+[2025-07-10T22:37:55.842Z] info  code-server 4.16.1 94ef3776ad7bebfb5780dfc9632e04d20d5c9a6c
+[2025-07-10T22:37:55.843Z] info  Using user-data-dir ~/.local/share/code-server
+[2025-07-10T22:37:55.863Z] info  Using config file ~/.config/code-server/config.yaml
+[2025-07-10T22:37:55.863Z] info  HTTP server listening on http://0.0.0.0:8081/
+[2025-07-10T22:37:55.863Z] info    - Authentication is disabled
+[2025-07-10T22:37:55.863Z] info    - Not serving HTTPS
+[2025-07-10T22:37:55.863Z] info  Session server listening on /home/labsuser/.local/share/code-server/code-server-ipc.sock
+[22:37:57] 
+
+
+
+
+[22:37:57] Extension host agent started.
+[22:37:59] [172.16.0.1][983a9bb3][ManagementConnection] New connection established.
+[22:38:01] [172.16.0.1][dd75b508][ExtensionHostConnection] New connection established.
+[22:38:01] [172.16.0.1][dd75b508][ExtensionHostConnection] <86> Launched Extension Host Process.
+[22:51:04] [172.16.0.1][dd75b508][ExtensionHostConnection] The client has reconnected.
+[00:34:44] [172.16.0.1][983a9bb3][ManagementConnection] The client has reconnected.
+[00:37:49] [172.16.0.1][983a9bb3][ManagementConnection] The client has reconnected.
+[01:28:29] [172.16.0.1][dd75b508][ExtensionHostConnection] The client has reconnected.
+[02:21:38] [172.16.0.1][dd75b508][ExtensionHostConnection] The client has reconnected.
+[02:37:59] [172.16.0.1][983a9bb3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[02:37:59] [172.16.0.1][dd75b508][ExtensionHostConnection] <86> Extension Host Process exited with code: 0, signal: null.
+[2025-07-11T02:38:09.657Z] info  code-server 4.16.1 94ef3776ad7bebfb5780dfc9632e04d20d5c9a6c
+[2025-07-11T02:38:09.658Z] info  Using user-data-dir ~/.local/share/code-server
+[2025-07-11T02:38:09.674Z] info  Using config file ~/.config/code-server/config.yaml
+[2025-07-11T02:38:09.674Z] info  HTTP server listening on http://0.0.0.0:8081/
+[2025-07-11T02:38:09.674Z] info    - Authentication is disabled
+[2025-07-11T02:38:09.674Z] info    - Not serving HTTPS
+[2025-07-11T02:38:09.674Z] info  Session server listening on /home/labsuser/.local/share/code-server/code-server-ipc.sock
+[02:38:10] 
+
+
+
+
+[02:38:10] Extension host agent started.
+[02:38:14] [172.16.0.1][cf2ec174][ManagementConnection] New connection established.
+[02:38:15] [172.16.0.1][ff8bcf64][ExtensionHostConnection] New connection established.
+[02:38:15] [172.16.0.1][ff8bcf64][ExtensionHostConnection] <72> Launched Extension Host Process.
+[03:02:26] [172.16.0.1][3d551a52][ManagementConnection] New connection established.
+[03:02:27] [172.16.0.1][28bdbe55][ExtensionHostConnection] New connection established.
+[03:02:27] [172.16.0.1][28bdbe55][ExtensionHostConnection] <2886> Launched Extension Host Process.
+[IPC Library: Pty Host]  INFO Expanding terminal instance, old id 2 -> new id undefined
+[2025-07-11T03:02:44.405Z] info  code-server 4.16.1 94ef3776ad7bebfb5780dfc9632e04d20d5c9a6c
+[2025-07-11T03:02:44.405Z] info  Using user-data-dir ~/.local/share/code-server
+[2025-07-11T03:02:44.421Z] info  Using config file ~/.config/code-server/config.yaml
+[2025-07-11T03:02:44.421Z] info  HTTP server listening on http://0.0.0.0:8081/
+[2025-07-11T03:02:44.421Z] info    - Authentication is disabled
+[2025-07-11T03:02:44.421Z] info    - Not serving HTTPS
+[2025-07-11T03:02:44.421Z] info  Session server listening on /home/labsuser/.local/share/code-server/code-server-ipc.sock
+[03:02:44] 
+
+
+
+
+[03:02:44] Extension host agent started.
+[03:02:48] [172.16.0.1][1b43d761][ManagementConnection] New connection established.
+[03:02:50] [172.16.0.1][2530b749][ExtensionHostConnection] New connection established.
+[03:02:50] [172.16.0.1][2530b749][ExtensionHostConnection] <86> Launched Extension Host Process.
+[03:02:52] [172.16.0.1][93c16413][ManagementConnection] New connection established.
+[03:02:54] [172.16.0.1][39b25748][ExtensionHostConnection] New connection established.
+[03:02:54] [172.16.0.1][39b25748][ExtensionHostConnection] <125> Launched Extension Host Process.
+[03:03:52] [172.16.0.1][1b43d761][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[03:03:52] [172.16.0.1][2530b749][ExtensionHostConnection] <86> Extension Host Process exited with code: 0, signal: null.

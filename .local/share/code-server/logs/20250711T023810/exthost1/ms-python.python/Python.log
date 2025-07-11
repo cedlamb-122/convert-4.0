@@ -1,0 +1,36 @@
+2025-07-11 02:38:17.725 [info] Telemetry level is off
+2025-07-11 02:38:17.725 [info] Experiments are disabled, only manually opted experiments are active.
+2025-07-11 02:38:17.725 [info] Test server listening.
+2025-07-11 02:38:17.725 [info] > conda info --json
+2025-07-11 02:38:17.725 [info] Python interpreter path: /bin/python
+2025-07-11 02:38:17.742 [info] Found: /bin/python --> /bin/python3.10
+2025-07-11 02:38:17.744 [info] Found: /bin/python3 --> /bin/python3.10
+2025-07-11 02:38:17.746 [info] Found: /bin/python3.10 --> /bin/python3.10
+2025-07-11 02:38:17.747 [info] Found: /bin/python3.8 --> /bin/python3.8
+2025-07-11 02:38:17.810 [info] Found: /usr/bin/python --> /usr/bin/python3.10
+2025-07-11 02:38:17.810 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2025-07-11 02:38:17.810 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2025-07-11 02:38:17.810 [info] Found: /usr/bin/python3.8 --> /usr/bin/python3.8
+2025-07-11 02:38:17.885 [info] > /bin/python -I /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2025-07-11 02:38:18.427 [info] > /bin/python3.8 -I /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2025-07-11 02:38:18.491 [info] > /usr/bin/python -I /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2025-07-11 02:38:18.574 [info] > /usr/bin/python3.8 -I /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/get_output_via_markers.py /usr/local/lib/code-server-4.16.1/lib/vscode/extensions/ms-python.python-2023.12.0/pythonFiles/interpreterInfo.py
+2025-07-11 02:38:18.708 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2025-07-11 02:38:18.708 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2025-07-11 02:38:18.708 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2025-07-11 02:38:18.708 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2025-07-11 02:38:18.709 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2025-07-11 02:38:19.839 [info] Starting Jedi language server for labsuser.
+2025-07-11 02:46:01.477 [info] Discover tests for workspace name: labsuser - uri: /home/labsuser/.local/share/code-server/User/History/-5449c9c0/WSgL.py
+2025-07-11 02:46:02.824 [info] Discover tests for workspace name: labsuser - uri: /home/labsuser/main.py
+2025-07-11 02:46:03.101 [info] Discover tests for workspace name: labsuser - uri: /home/labsuser/.local/share/code-server/User/History/-5449c9c0/WSgL.py
+2025-07-11 02:46:03.608 [info] Discover tests for workspace name: labsuser - uri: /home/labsuser/main.py
+2025-07-11 02:46:31.767 [info] Discover tests for workspace name: labsuser - uri: /home/labsuser/sklearn_crypto_pipeline.py
+2025-07-11 02:46:32.035 [info] Discover tests for workspace name: labsuser - uri: /home/labsuser/.local/share/code-server/User/History/704fb368/2lY1.py
+2025-07-11 02:46:41.763 [info] Discover tests for workspace name: labsuser - uri: /home/labsuser/loaders.py
+2025-07-11 02:46:42.070 [info] Discover tests for workspace name: labsuser - uri: /home/labsuser/.local/share/code-server/User/History/7e94c4d5/9BMS.py
+2025-07-11 02:48:55.578 [info] Discover tests for workspace name: labsuser - uri: /home/labsuser/.local/share/code-server/User/History/7e94c4d5/eyQA.py
+2025-07-11 02:48:56.152 [info] Discover tests for workspace name: labsuser - uri: /home/labsuser/loaders.py
+2025-07-11 02:48:59.800 [info] Discover tests for workspace name: labsuser - uri: /home/labsuser/sklearn_crypto_pipeline.py
+2025-07-11 02:49:00.098 [info] Discover tests for workspace name: labsuser - uri: /home/labsuser/.local/share/code-server/User/History/704fb368/TdLe.py
+2025-07-11 02:49:04.566 [info] Discover tests for workspace name: labsuser - uri: /home/labsuser/.local/share/code-server/User/History/-5449c9c0/9s5v.py

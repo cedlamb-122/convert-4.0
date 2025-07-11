@@ -1,0 +1,158 @@
+2025-07-11 03:02:56.125 [info] Log level: Info
+2025-07-11 03:02:56.125 [info] Validating found git in: "git"
+2025-07-11 03:02:56.125 [info] Using git "2.25.1" from "git"
+2025-07-11 03:02:56.125 [info] > git rev-parse --show-toplevel [3ms]
+2025-07-11 03:02:56.125 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-11 03:02:56.125 [info] > git rev-parse --show-toplevel [453ms]
+2025-07-11 03:02:56.125 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-11 03:02:56.125 [info] > git rev-parse --show-toplevel [2ms]
+2025-07-11 03:02:56.125 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-11 03:02:56.125 [info] > git rev-parse --show-toplevel [5ms]
+2025-07-11 03:02:56.125 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-11 03:02:56.125 [info] > git rev-parse --show-toplevel [3ms]
+2025-07-11 03:02:56.125 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-11 03:03:02.510 [info] > git rev-parse --show-toplevel [12ms]
+2025-07-11 03:03:02.511 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-11 03:03:10.977 [info] > git rev-parse --show-toplevel [4ms]
+2025-07-11 03:03:10.977 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-11 03:03:17.114 [info] > git rev-parse --show-toplevel [4ms]
+2025-07-11 03:03:17.114 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-11 03:03:32.765 [info] > git rev-parse --show-toplevel [3ms]
+2025-07-11 03:03:32.765 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-11 03:04:47.923 [info] > git rev-parse --show-toplevel [2ms]
+2025-07-11 03:04:47.924 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-11 03:04:54.146 [info] > git rev-parse --show-toplevel [2ms]
+2025-07-11 03:04:54.146 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-11 03:04:55.795 [info] > git rev-parse --show-toplevel [2ms]
+2025-07-11 03:04:55.795 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-11 03:04:58.813 [info] > git rev-parse --show-toplevel [3ms]
+2025-07-11 03:04:58.813 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-11 03:05:08.448 [info] > git rev-parse --show-toplevel [1ms]
+2025-07-11 03:05:08.448 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-11 03:05:31.844 [info] > git rev-parse --show-toplevel [2ms]
+2025-07-11 03:05:31.844 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-11 03:05:49.835 [info] > git rev-parse --show-toplevel [2ms]
+2025-07-11 03:05:49.835 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-11 03:06:21.581 [info] > git rev-parse --show-toplevel [3ms]
+2025-07-11 03:06:21.581 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-11 03:06:44.989 [info] > git rev-parse --show-toplevel [2ms]
+2025-07-11 03:06:44.989 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-11 03:07:09.719 [info] > git rev-parse --show-toplevel [3ms]
+2025-07-11 03:07:09.719 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-11 03:07:10.194 [info] > git rev-parse --show-toplevel [1ms]
+2025-07-11 03:07:10.194 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-11 03:07:29.061 [info] > git rev-parse --show-toplevel [2ms]
+2025-07-11 03:07:29.061 [info] fatal: not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-07-11 03:07:53.222 [info] > git rev-parse --show-toplevel [6ms]
+2025-07-11 03:07:53.233 [info] > git rev-parse --git-dir --git-common-dir [6ms]
+2025-07-11 03:07:53.240 [info] Open repository: /home/labsuser
+2025-07-11 03:07:53.253 [info] No remotes found in the git config file.
+2025-07-11 03:07:53.257 [info] > git config --get commit.template [10ms]
+2025-07-11 03:07:53.263 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [11ms]
+2025-07-11 03:07:53.437 [info] > git status -z -uall [168ms]
+2025-07-11 03:07:53.457 [info] No remotes found in the git config file.
+2025-07-11 03:07:53.460 [info] > git config --get commit.template [9ms]
+2025-07-11 03:07:53.466 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2025-07-11 03:07:53.528 [info] > git status -z -uall [57ms]
+2025-07-11 03:07:53.897 [info] > git check-ignore -v -z --stdin [40ms]
+2025-07-11 03:07:53.898 [info] > git show --textconv :data.csv [34ms]
+2025-07-11 03:07:53.901 [info] > git show --textconv :main.py [32ms]
+2025-07-11 03:07:53.901 [info] > git show --textconv :loaders.py [28ms]
+2025-07-11 03:07:53.901 [info] > git show --textconv :sklearn_crypto_pipeline.py [23ms]
+2025-07-11 03:07:53.901 [info] > git ls-files --stage -- /home/labsuser/main.py [14ms]
+2025-07-11 03:07:53.901 [info] > git ls-files --stage -- /home/labsuser/data.csv [18ms]
+2025-07-11 03:07:53.906 [info] > git ls-files --stage -- /home/labsuser/loaders.py [14ms]
+2025-07-11 03:07:53.907 [info] > git ls-files --stage -- /home/labsuser/sklearn_crypto_pipeline.py [11ms]
+2025-07-11 03:08:01.848 [info] No remotes found in the git config file.
+2025-07-11 03:08:01.850 [info] > git config --get commit.template [7ms]
+2025-07-11 03:08:01.857 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2025-07-11 03:08:01.920 [info] > git status -z -uall [59ms]
+2025-07-11 03:08:06.936 [info] No remotes found in the git config file.
+2025-07-11 03:08:06.942 [info] > git config --get commit.template [8ms]
+2025-07-11 03:08:06.950 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2025-07-11 03:08:07.012 [info] > git status -z -uall [57ms]
+2025-07-11 03:08:10.023 [info] > git ls-files --stage -- /home/labsuser/data.csv [16ms]
+2025-07-11 03:08:10.028 [info] > git ls-files --stage -- /home/labsuser/main.py [15ms]
+2025-07-11 03:08:10.034 [info] > git ls-files --stage -- /home/labsuser/loaders.py [16ms]
+2025-07-11 03:08:10.039 [info] > git ls-files --stage -- /home/labsuser/sklearn_crypto_pipeline.py [16ms]
+2025-07-11 03:08:10.051 [info] > git cat-file -s d975ebbc2f93621db9a36bc130cad4552f251fae [23ms]
+2025-07-11 03:08:10.052 [info] > git cat-file -s 7c1ea4e4e3d595a58e0289277d8209b2a18d3e8e [20ms]
+2025-07-11 03:08:10.060 [info] > git cat-file -s df548b581dcc011b095192f31a16d358fdbb082c [21ms]
+2025-07-11 03:08:10.064 [info] > git cat-file -s 34e4b54837b50cba13f2899c4b9064b41ed7e362 [21ms]
+2025-07-11 03:08:10.249 [info] > git show --textconv :sklearn_crypto_pipeline.py [61ms]
+2025-07-11 03:08:10.249 [info] > git show --textconv :main.py [73ms]
+2025-07-11 03:08:10.252 [info] > git show --textconv :loaders.py [70ms]
+2025-07-11 03:08:10.258 [info] > git show --textconv :data.csv [88ms]
+2025-07-11 03:08:16.064 [info] No remotes found in the git config file.
+2025-07-11 03:08:16.064 [info] > git config --get commit.template [6ms]
+2025-07-11 03:08:16.072 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2025-07-11 03:08:16.139 [info] > git status -z -uall [62ms]
+2025-07-11 03:08:58.016 [info] No remotes found in the git config file.
+2025-07-11 03:08:58.023 [info] > git config --get commit.template [8ms]
+2025-07-11 03:08:58.031 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [10ms]
+2025-07-11 03:08:58.155 [info] > git status -z -uall [119ms]
+2025-07-11 03:09:03.175 [info] No remotes found in the git config file.
+2025-07-11 03:09:03.178 [info] > git config --get commit.template [9ms]
+2025-07-11 03:09:03.185 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [11ms]
+2025-07-11 03:09:03.253 [info] > git status -z -uall [63ms]
+2025-07-11 03:09:08.271 [info] No remotes found in the git config file.
+2025-07-11 03:09:08.275 [info] > git config --get commit.template [10ms]
+2025-07-11 03:09:08.280 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [10ms]
+2025-07-11 03:09:08.467 [info] > git status -z -uall [183ms]
+2025-07-11 03:09:40.398 [info] No remotes found in the git config file.
+2025-07-11 03:09:40.406 [info] > git config --get commit.template [9ms]
+2025-07-11 03:09:40.413 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2025-07-11 03:09:40.532 [info] > git status -z -uall [113ms]
+2025-07-11 03:09:45.546 [info] No remotes found in the git config file.
+2025-07-11 03:09:45.553 [info] > git config --get commit.template [7ms]
+2025-07-11 03:09:45.561 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [10ms]
+2025-07-11 03:09:45.633 [info] > git status -z -uall [68ms]
+2025-07-11 03:10:04.478 [info] No remotes found in the git config file.
+2025-07-11 03:10:04.483 [info] > git config --get commit.template [11ms]
+2025-07-11 03:10:04.488 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [10ms]
+2025-07-11 03:10:04.637 [info] > git status -z -uall [143ms]
+2025-07-11 03:10:07.022 [info] > git ls-files --stage -- /home/labsuser/main.py [10ms]
+2025-07-11 03:10:07.023 [info] > git ls-files --stage -- /home/labsuser/data.csv [17ms]
+2025-07-11 03:10:07.031 [info] > git ls-files --stage -- /home/labsuser/loaders.py [14ms]
+2025-07-11 03:10:07.031 [info] > git ls-files --stage -- /home/labsuser/sklearn_crypto_pipeline.py [9ms]
+2025-07-11 03:10:07.150 [info] > git show --textconv :main.py [15ms]
+2025-07-11 03:10:07.150 [info] > git show --textconv :data.csv [10ms]
+2025-07-11 03:10:07.155 [info] > git show --textconv :loaders.py [10ms]
+2025-07-11 03:10:07.159 [info] > git show --textconv :sklearn_crypto_pipeline.py [10ms]
+2025-07-11 03:10:09.650 [info] No remotes found in the git config file.
+2025-07-11 03:10:09.656 [info] > git config --get commit.template [7ms]
+2025-07-11 03:10:09.664 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2025-07-11 03:10:09.777 [info] > git status -z -uall [108ms]
+2025-07-11 03:10:14.791 [info] No remotes found in the git config file.
+2025-07-11 03:10:14.797 [info] > git config --get commit.template [7ms]
+2025-07-11 03:10:14.805 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2025-07-11 03:10:14.870 [info] > git status -z -uall [60ms]
+2025-07-11 03:10:58.448 [info] No remotes found in the git config file.
+2025-07-11 03:10:58.455 [info] > git config --get commit.template [7ms]
+2025-07-11 03:10:58.463 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2025-07-11 03:10:58.542 [info] > git status -z -uall [73ms]
+2025-07-11 03:11:03.554 [info] No remotes found in the git config file.
+2025-07-11 03:11:03.561 [info] > git config --get commit.template [7ms]
+2025-07-11 03:11:03.573 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [14ms]
+2025-07-11 03:11:03.653 [info] > git status -z -uall [75ms]

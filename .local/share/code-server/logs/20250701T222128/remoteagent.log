@@ -1,0 +1,12 @@
+2025-07-01 22:21:28.072 [info] 
+
+
+
+
+2025-07-01 22:21:28.088 [info] Extension host agent started.
+2025-07-01 22:21:30.567 [info] [172.16.0.1][e909f553][ManagementConnection] New connection established.
+2025-07-01 22:21:31.540 [warning] Using the in-memory credential store as the operating system's credential store could not be accessed. Please see https://aka.ms/vscode-server-keyring on how to set this up. Details: Address element “/dev/null” does not contain a colon (:)
+2025-07-01 22:21:32.035 [info] [172.16.0.1][69a34719][ExtensionHostConnection] New connection established.
+2025-07-01 22:21:32.086 [info] [172.16.0.1][69a34719][ExtensionHostConnection] <74> Launched Extension Host Process.
+2025-07-02 00:27:17.278 [info] [172.16.0.1][e909f553][ManagementConnection] The client has reconnected.
+2025-07-02 00:53:02.223 [info] [172.16.0.1][69a34719][ExtensionHostConnection] The client has reconnected.
