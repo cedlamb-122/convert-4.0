@@ -1,2 +1,0 @@
-print('NEW TEST!')
-pring('')
