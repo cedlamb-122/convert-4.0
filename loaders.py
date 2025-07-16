@@ -34,9 +34,14 @@ def load_crypto_data(file_path):
     if 'date' in df.columns:
         df['date'] = pd.to_datetime(df['date'])
 
-    # Extract month and day of week from date
-    df['month'] = df['date'].dt.month
-    df['day_of_week'] = df['date'].dt.dayofweek
+    # Extract month and day of week from date - fix for datetime conversion error
+    if 'date' in df.columns:
+        df['month'] = df['date'].dt.month.astype('int64').astype('int32')
+        df['day_of_week'] = df['date'].dt.dayofweek.astype('int64').astype('int32')
+    elif 'timestamp' in df.columns:
+        # Fallback to timestamp if date column doesn't exist
+        df['month'] = df['timestamp'].dt.month.astype('int64').astype('int32')
+        df['day_of_week'] = df['timestamp'].dt.dayofweek.astype('int64').astype('int32')
 
     # Sort by timestamp to ensure proper ordering
     df = df.sort_values('timestamp')
